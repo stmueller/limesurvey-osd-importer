@@ -67,5 +67,5 @@ VAS slider attribute reminders, etc.) are shown below.
 
 Apache 2.0 — see [LICENSE](LICENSE).
 
-Copyright 2025 Shane T. Mueller / [OpenScales Project](https://openscales.net)
+Copyright 2026 Shane T. Mueller / [OpenScales Project](https://openscales.net)
 Contact: shanem@mtu.edu
